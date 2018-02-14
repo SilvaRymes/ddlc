@@ -1,16 +1,16 @@
-.monika {
-	height: 1026px;
-	width: 570px;
-	top: 125px;
-	left: 408px;
+.yuri {
+	height: 626px;
+	width: 262px;
+	top: 19px;
+	left: 157px;
 	position: absolute;
-	overflow: visible;
+    overflow: visible;
 	visibility: hidden;
-	-webkit-animation: rise-up-m 1.99s .243s forwards;
-			animation: rise-up-m 1.99s .243s forwards;
+	-webkit-animation: rise-up-y 1.98s .002s forwards;
+			animation: rise-up-y 1.98s .002s forwards;
 }
 
-@keyframes rise-up-m {
+@-webkit-keyframes rise-up-y {
   0% {
     -webkit-transform: translateY(702px) scale(.75);
             transform: translateY(702px) scale(.75);
@@ -20,8 +20,8 @@
 			
 }
   50% {
-    -webkit-transform: translateY(160px) scale(.93);
-            transform: translateY(160px) scale(.93);
+    -webkit-transform: translateY(43.875px) scale(.90);
+            transform: translateY(43.875px) scale(.90);
     -webkit-animation-timing-function: ease-out;
             animation-timing-function: ease-out;
 	visibility: visible;
@@ -35,8 +35,7 @@
   }
 }
 
-
-@-webkit-keyframes rise-up-m {
+@keyframes rise-up-y {
   0% {
     -webkit-transform: translateY(702px) scale(.75);
             transform: translateY(702px) scale(.75);
@@ -46,8 +45,8 @@
 			
 }
   50% {
-    -webkit-transform: translateY(160px) scale(.93);
-            transform: translateY(160px) scale(.93);
+    -webkit-transform: translateY(43.875px) scale(.90);
+            transform: translateY(43.875px) scale(.90);
     -webkit-animation-timing-function: ease-out;
             animation-timing-function: ease-out;
 	visibility: visible;
