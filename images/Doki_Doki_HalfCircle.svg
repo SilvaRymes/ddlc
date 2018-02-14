@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-225 37 310 720" style="enable-background:new -225 37 310 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#FEE6F4;}
+	.st2{fill:#FFBDE1;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-225" y="37" width="310" height="720"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="XMLID_27_" class="st0">
+		<path id="XMLID_144_" class="st1" d="M-1215,1682c-709,0-1285-576-1285-1285s576-1285,1285-1285S70-312,70,397
+			S-506,1682-1215,1682z"/>
+		<path id="XMLID_141_" class="st2" d="M-1215-873c339,0,658,132,898,372S55,58,55,397s-132,658-372,898s-559,372-898,372
+			s-658-132-898-372s-372-559-372-898s132-658,372-898S-1554-873-1215-873 M-1215-903c-718,0-1300,582-1300,1300s582,1300,1300,1300
+			S85,1115,85,397S-497-903-1215-903L-1215-903z"/>
+	</g>
+</g>
+</svg>
