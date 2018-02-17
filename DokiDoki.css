@@ -369,7 +369,11 @@ a:hover {
 	text-align: center;
 }
 
-.overlay:target {visibility: visible; opacity: 1;}
+.overlay:target {
+	visibility: visible;
+	opacity: 1;
+	z-index: 15;
+}
 
 .popup {
 	position: fixed;
